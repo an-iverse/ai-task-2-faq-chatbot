@@ -1,0 +1,8 @@
+[
+  {"question": "What is artificial intelligence?", "answer": "Artificial intelligence, or AI, is the ability of computer systems to perform tasks that normally need human intelligence, such as learning, reasoning, or understanding language."},
+  {"question": "What is machine learning?", "answer": "Machine learning is a branch of AI in which a system learns patterns from data instead of being given every rule manually."},
+  {"question": "What is the difference between AI and machine learning?", "answer": "AI is the larger field of making intelligent systems. Machine learning is one method used to build AI systems."},
+  {"question": "What programming language is best for AI?", "answer": "Python is popular for AI because it is beginner-friendly and has useful libraries such as scikit-learn, TensorFlow, and PyTorch."},
+  {"question": "What is natural language processing?", "answer": "Natural language processing (NLP) helps computers understand, process, and generate human language."},
+  {"question": "How can I start learning AI?", "answer": "Start with Python basics, simple data analysis, and introductory machine-learning projects. Build one small project at a time."}
+]
